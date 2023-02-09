@@ -80,7 +80,7 @@
   * [현재전시](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%ED%98%84%EC%9E%AC%EC%A0%84%EC%8B%9C)
   * [지난전시](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%EC%A7%80%EB%82%9C%EC%A0%84%EC%8B%9C)
   * [전시 상세보기](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%EC%A0%84%EC%8B%9C-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)
-  * [전시 및 교육프로그램 검색](https://github.com/dan-im/imuseum/edit/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition/README.md#heavy_check_mark-%EC%BA%98%EB%A6%B0%EB%8D%94)
+  * [전시 및 교육프로그램 검색](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B2%80%EC%83%89)
   * [프로그램 캘린더](https://github.com/dan-im/imuseum/edit/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition/README.md#heavy_check_mark-%EC%BA%98%EB%A6%B0%EB%8D%94) 
 * **TICKET**
   * 전시티켓 예매
