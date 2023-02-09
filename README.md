@@ -72,7 +72,7 @@
 </details>
 
 ## :raised_hand:맡은 기능 (해당 링크를 클릭 시 이동합니다)
-* **[메인페이지](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views#%ED%99%88%ED%99%94%EB%A9%B4)**
+* **[홈화면](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views#%ED%99%88%ED%99%94%EB%A9%B4)**
 * **VISIT**
   * [미술관소개](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/visit#heavy_check_mark-%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%86%8C%EA%B0%9C)
   * [오시는 길](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/visit#heavy_check_mark-%EC%98%A4%EC%8B%9C%EB%8A%94-%EA%B8%B8)
