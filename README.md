@@ -33,7 +33,7 @@
 
 ## :pushpin: DB 설계
 ![DB설계](https://user-images.githubusercontent.com/112814104/217784709-ed393134-1865-43e2-be3e-31dcac5257ca.jpg)
-해당 텍스트 클릭 시 DB 자세히 보기가 가능합니다.
+:four_leaf_clover: 해당 텍스트 클릭 시 DB 자세히 보기가 가능합니다.
 <details>
 <summary><b>유저, 공지사항, 교육프로그램</b></summary>
 
