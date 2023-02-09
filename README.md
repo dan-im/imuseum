@@ -70,3 +70,15 @@
 ![장바구니,주문배송](https://user-images.githubusercontent.com/112814104/217786440-d77a379b-ca33-4860-87bf-70e6fdb7ec19.jpg)
 
 </details>
+
+## :raised_hand:맡은 기능 (해당 링크를 클릭 시 이동합니다)
+* **[메인페이지](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views#%ED%99%88%ED%99%94%EB%A9%B4)**
+* **VISIT**
+  * [미술관소개](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/visit#heavy_check_mark-%EB%AF%B8%EC%88%A0%EA%B4%80-%EC%86%8C%EA%B0%9C)
+  * [오시는 길](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/visit#heavy_check_mark-%EC%98%A4%EC%8B%9C%EB%8A%94-%EA%B8%B8)
+* **EXHIBITION**
+  * [현재전시](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%ED%98%84%EC%9E%AC%EC%A0%84%EC%8B%9C)
+  * [지난전시](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%EC%A7%80%EB%82%9C%EC%A0%84%EC%8B%9C)
+  * [전시 상세보기](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%EC%A0%84%EC%8B%9C-%EC%83%81%EC%84%B8%EB%B3%B4%EA%B8%B0)
+  
+
