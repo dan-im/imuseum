@@ -83,9 +83,9 @@
   * [전시 및 교육프로그램 검색](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8-%EA%B2%80%EC%83%89)
   * [프로그램 캘린더](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/exhibition#heavy_check_mark-%EC%BA%98%EB%A6%B0%EB%8D%94)
 * **TICKET**
-  * 전시티켓 예매
-  * 교육프로그램티켓 예매
-  * 티켓 결제
+  * [전시티켓 예매](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/ticket#heavy_check_mark-%EC%A0%84%EC%8B%9C%ED%8B%B0%EC%BC%93-%EC%98%88%EB%A7%A4)
+  * [교육프로그램티켓 예매](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/ticket#heavy_check_mark-%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%ED%8B%B0%EC%BC%93-%EC%98%88%EB%A7%A4)
+  * [티켓 결제](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/ticket#heavy_check_mark-%ED%8B%B0%EC%BC%93-%EA%B2%B0%EC%A0%9C)
 * **ADMIN**
   * 전시관리
   * 예매티켓 관리  
