@@ -29,7 +29,7 @@
 - **백은주:** 마이페이지, 예매 및 주문조회, 배송지등록, FAQ 게시판
 - **서태우:** 교육프로그램 등록 및 관리, 교육프로그램 단체예매 등록 및 관리
 - **이현준:** 판매상품 등록 및 관리, 배송관리, 상품문의
-- **임다은:** 전시 등록 및 관리, 전시 예매, 교육프로그램 예매, 예매티켓 관리
+- **:sparkles:임다은:** 전시 등록 및 관리, 전시 예매, 교육프로그램 예매, 예매티켓 관리
 
 ## :pushpin: DB 설계
 ![DB설계](https://user-images.githubusercontent.com/112814104/217784709-ed393134-1865-43e2-be3e-31dcac5257ca.jpg)
@@ -87,8 +87,6 @@
   * [교육프로그램티켓 예매](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/ticket#heavy_check_mark-%EA%B5%90%EC%9C%A1%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%ED%8B%B0%EC%BC%93-%EC%98%88%EB%A7%A4)
   * [티켓 결제](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/ticket#heavy_check_mark-%ED%8B%B0%EC%BC%93-%EA%B2%B0%EC%A0%9C)
 * **ADMIN**
-  * 전시관리
-  * 예매티켓 관리  
-  
-  
-
+  * [전시관리](https://github.com/dan-im/imuseum/tree/main/Imuseum/src/main/webapp/WEB-INF/views/admin#heavy_check_mark-%EC%A0%84%EC%8B%9C%EA%B4%80%EB%A6%AC)
+  * [예매티켓 관리](https://github.com/dan-im/imuseum/blob/main/Imuseum/src/main/webapp/WEB-INF/views/admin/README.md#heavy_check_mark-%EC%98%88%EB%A7%A4%ED%8B%B0%EC%BC%93-%EA%B4%80%EB%A6%AC)
+ 
